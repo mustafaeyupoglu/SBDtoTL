@@ -1,0 +1,11 @@
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\bin\Debug\SBDtoTL.exe.config
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\bin\Debug\SBDtoTL.exe
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\bin\Debug\SBDtoTL.pdb
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\obj\Debug\SBDtoTL.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\obj\Debug\SBDtoTL.Form1.resources
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\obj\Debug\SBDtoTL.Properties.Resources.resources
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\obj\Debug\SBDtoTL.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\obj\Debug\SBDtoTL.exe
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\obj\Debug\SBDtoTL.pdb
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mustafa\Desktop\SBDtoTL\SBDtoTL\bin\Debug\Newtonsoft.Json.xml
